@@ -1,8 +1,6 @@
 # Student-stress-tracker
 It is a python based student stress tracker which tracks a students stress level by asking various questions related to a students daily life
-That's a great series of steps for your project! You've successfully performed Exploratory Data Analysis (EDA) on a dataset of student stress factors.
 
-Here is a README.md file tailored for your GitHub repository. It explains the project clearly, showcases your findings, and uses a natural, non-AI-generated style.
 
 📚 Student Stress Factors Analysis
 Project Overview
